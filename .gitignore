@@ -1,0 +1,19 @@
+# Compilación de Java
+*.class
+
+# Archivos de empaquetado temporal
+*.tmp
+*.log
+manifest.txt
+
+# Configuración de Entornos de Desarrollo (IDEs)
+.vscode/
+.idea/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

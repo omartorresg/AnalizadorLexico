@@ -1,8 +1,7 @@
 # Analizador Léxico con JFlex e Interfaz Gráfica (Swing)
 
-¡Bienvenido! Este proyecto es un **Analizador Léxico** desarrollado para la materia de Compiladores. Su objetivo es procesar y clasificar los componentes léxicos de un mini-lenguaje de programación denominado **MiniCode**, utilizando un Autómata Finito Determinista (AFD) generado con **JFlex** y una interfaz de usuario creada en **Java Swing**.
+Este proyecto es un Analizador Léxico desarrollado para la materia de Compiladores. Su objetivo es procesar y clasificar los componentes léxicos de un mini-lenguaje de programación, utilizando un Autómata Finito Determinista (AFD) generado con JFlex y una interfaz de usuario creada en Java Swing.
 
----
 
 ## Características Principales
 
@@ -11,7 +10,6 @@
 * **Soporte para Comentarios:** Omite automáticamente los comentarios de una sola línea (`//`).
 * **Aplicación Gráfica de Escritorio:** Interfaz limpia con tabla interactiva para visualizar los lexemas y sus correspondientes tokens en tiempo real.
 
----
 
 ## Estructura del Proyecto
 
